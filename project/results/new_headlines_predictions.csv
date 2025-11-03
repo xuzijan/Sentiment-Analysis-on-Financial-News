@@ -1,0 +1,14 @@
+ID,Original_Headline,Processed_Headline,Predicted_Sentiment,Confidence,Positive_Probability,Neutral_Probability,Negative_Probability
+1,Apple Reports Record-Breaking Quarterly Earnings Exceeding Expectations,apple reports record-breaking quarterly earnings exceeding expectations,Negative,0.9480504989624023,0.014862881,0.037086558,0.9480505
+2,Tech Giants Announce Major Investment in AI Infrastructure,tech giants announce major investment in ai infrastructure,Neutral,0.65370774269104,0.012783564,0.65370774,0.33350867
+3,Market Rally Continues as Stocks Hit New All-Time Highs,market rally continues as stocks hit new all-time highs,Negative,0.9718326926231384,0.010798887,0.01736848,0.9718327
+4,Major Bank Faces Regulatory Penalties for Compliance Violations,major bank faces regulatory penalties for compliance violations,Positive,0.9614790081977844,0.961479,0.021584611,0.01693647
+5,Tech Company Announces Mass Layoffs Amid Cost Cutting Measures,tech company announces mass layoffs amid cost cutting measures,Positive,0.9678374528884888,0.96783745,0.02239261,0.009769988
+6,Stock Market Plunges on Recession Fears,stock market plunges on recession fears,Positive,0.9262626767158508,0.9262627,0.043564644,0.0301727
+7,Federal Reserve Maintains Current Interest Rate Policy,federal reserve maintains current interest rate policy,Neutral,0.9917733073234558,0.0027624643,0.9917733,0.0054641822
+8,Company Reports Quarterly Earnings in Line with Estimates,company reports quarterly earnings in line with estimates,Neutral,0.8060287237167358,0.01009061,0.8060287,0.1838806
+9,Market Analysts Discuss Economic Outlook for Next Quarter,market analysts discuss economic outlook for next quarter,Neutral,0.9416515827178955,0.006050125,0.9416516,0.052298285
+10,JPMorgan Expects Continued Market Stability,jpmorgan expects continued market stability,Negative,0.9618483185768127,0.013142507,0.02500922,0.9618483
+11,Oil Prices Rise on Supply Concerns,oil prices rise on supply concerns,Negative,0.6963217854499817,0.16282447,0.14085372,0.6963218
+12,Euro Weakens Against Dollar,euro weakens against dollar,Positive,0.8469293117523193,0.8469293,0.10514503,0.047925632
+13,Business Investment Remains Unchanged,business investment remains unchanged,Neutral,0.9598399996757507,0.0046680644,0.95984,0.035491895

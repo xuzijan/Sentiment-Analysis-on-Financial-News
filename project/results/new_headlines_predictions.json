@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "headline": "Apple Reports Record-Breaking Quarterly Earnings Exceeding Expectations",
+    "prediction": {
+      "sentiment": "Negative",
+      "confidence": 0.9480504989624023,
+      "probabilities": {
+        "positive": 0.014862881042063236,
+        "neutral": 0.03708655759692192,
+        "negative": 0.9480504989624023
+      }
+    }
+  },
+  {
+    "id": 2,
+    "headline": "Tech Giants Announce Major Investment in AI Infrastructure",
+    "prediction": {
+      "sentiment": "Neutral",
+      "confidence": 0.65370774269104,
+      "probabilities": {
+        "positive": 0.012783563695847988,
+        "neutral": 0.65370774269104,
+        "negative": 0.3335086703300476
+      }
+    }
+  },
+  {
+    "id": 3,
+    "headline": "Market Rally Continues as Stocks Hit New All-Time Highs",
+    "prediction": {
+      "sentiment": "Negative",
+      "confidence": 0.9718326926231384,
+      "probabilities": {
+        "positive": 0.010798887349665165,
+        "neutral": 0.017368480563163757,
+        "negative": 0.9718326926231384
+      }
+    }
+  },
+  {
+    "id": 4,
+    "headline": "Major Bank Faces Regulatory Penalties for Compliance Violations",
+    "prediction": {
+      "sentiment": "Positive",
+      "confidence": 0.9614790081977844,
+      "probabilities": {
+        "positive": 0.9614790081977844,
+        "neutral": 0.021584611386060715,
+        "negative": 0.016936469823122025
+      }
+    }
+  },
+  {
+    "id": 5,
+    "headline": "Tech Company Announces Mass Layoffs Amid Cost Cutting Measures",
+    "prediction": {
+      "sentiment": "Positive",
+      "confidence": 0.9678374528884888,
+      "probabilities": {
+        "positive": 0.9678374528884888,
+        "neutral": 0.02239261008799076,
+        "negative": 0.009769988246262074
+      }
+    }
+  },
+  {
+    "id": 6,
+    "headline": "Stock Market Plunges on Recession Fears",
+    "prediction": {
+      "sentiment": "Positive",
+      "confidence": 0.9262626767158508,
+      "probabilities": {
+        "positive": 0.9262626767158508,
+        "neutral": 0.04356464371085167,
+        "negative": 0.030172700062394142
+      }
+    }
+  },
+  {
+    "id": 7,
+    "headline": "Federal Reserve Maintains Current Interest Rate Policy",
+    "prediction": {
+      "sentiment": "Neutral",
+      "confidence": 0.9917733073234558,
+      "probabilities": {
+        "positive": 0.002762464340776205,
+        "neutral": 0.9917733073234558,
+        "negative": 0.005464182235300541
+      }
+    }
+  },
+  {
+    "id": 8,
+    "headline": "Company Reports Quarterly Earnings in Line with Estimates",
+    "prediction": {
+      "sentiment": "Neutral",
+      "confidence": 0.8060287237167358,
+      "probabilities": {
+        "positive": 0.010090610012412071,
+        "neutral": 0.8060287237167358,
+        "negative": 0.18388059735298157
+      }
+    }
+  },
+  {
+    "id": 9,
+    "headline": "Market Analysts Discuss Economic Outlook for Next Quarter",
+    "prediction": {
+      "sentiment": "Neutral",
+      "confidence": 0.9416515827178955,
+      "probabilities": {
+        "positive": 0.006050125230103731,
+        "neutral": 0.9416515827178955,
+        "negative": 0.05229828506708145
+      }
+    }
+  },
+  {
+    "id": 10,
+    "headline": "JPMorgan Expects Continued Market Stability",
+    "prediction": {
+      "sentiment": "Negative",
+      "confidence": 0.9618483185768127,
+      "probabilities": {
+        "positive": 0.013142506591975689,
+        "neutral": 0.025009220466017723,
+        "negative": 0.9618483185768127
+      }
+    }
+  },
+  {
+    "id": 11,
+    "headline": "Oil Prices Rise on Supply Concerns",
+    "prediction": {
+      "sentiment": "Negative",
+      "confidence": 0.6963217854499817,
+      "probabilities": {
+        "positive": 0.16282446682453156,
+        "neutral": 0.14085371792316437,
+        "negative": 0.6963217854499817
+      }
+    }
+  },
+  {
+    "id": 12,
+    "headline": "Euro Weakens Against Dollar",
+    "prediction": {
+      "sentiment": "Positive",
+      "confidence": 0.8469293117523193,
+      "probabilities": {
+        "positive": 0.8469293117523193,
+        "neutral": 0.10514502972364426,
+        "negative": 0.04792563244700432
+      }
+    }
+  },
+  {
+    "id": 13,
+    "headline": "Business Investment Remains Unchanged",
+    "prediction": {
+      "sentiment": "Neutral",
+      "confidence": 0.9598399996757507,
+      "probabilities": {
+        "positive": 0.0046680644154548645,
+        "neutral": 0.9598399996757507,
+        "negative": 0.03549189493060112
+      }
+    }
+  }
+]
